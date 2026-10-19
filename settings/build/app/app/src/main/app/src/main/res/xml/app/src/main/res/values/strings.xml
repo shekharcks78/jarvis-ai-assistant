@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JARVIS AI</string>
+    <string name="accessibility_desc">JARVIS Accessibility Service allows voice commands like "Go Back", "Scroll Up", and "Scroll Down" to control your screen safely without storing any personal data.</string>
+</resources>
